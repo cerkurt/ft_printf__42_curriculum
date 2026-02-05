@@ -12,7 +12,6 @@ This project has been created as part of the 42 curriculum by **cerkurt**.
 - [Compilation](#compilation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [42 Norm & Constraints](#42-norm--constraints)
 - [Resources](#resources)
 
 ---
@@ -163,16 +162,6 @@ Recommended checks:
   - `NULL` pointer → should print `(nil)`
   - negative numbers for `%d/%i`
   - large unsigned values for `%u/%x/%X`
-
----
-
-## 42 Norm & Constraints
-
-This project follows the 42 Norm guidelines (typical constraints):
-- Max 25 lines per function
-- Max 4 variables per function
-- Norm-compliant formatting and file structure
-- Only allowed functions (mostly `write`, `malloc/free` if used, and variadic macros)
 
 ---
 
