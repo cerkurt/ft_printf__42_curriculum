@@ -164,8 +164,6 @@ Recommended checks:
   - negative numbers for `%d/%i`
   - large unsigned values for `%u/%x/%X`
 
-If you have **francinette** installed, you can run its ft_printf tests as well.
-
 ---
 
 ## 42 Norm & Constraints
