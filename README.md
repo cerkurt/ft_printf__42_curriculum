@@ -2,7 +2,7 @@ This project has been created as part of the 42 curriculum by cerkurt.
 
 ---
 
-## 📑 Index
+## Index
 
 - [Project Overview](#project-overview)
 - [Supported Conversions](#supported-conversions)
